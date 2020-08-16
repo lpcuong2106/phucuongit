@@ -17,22 +17,20 @@ I'm a [Junior Developer at Viec.Co](https://viec.co/) focusing on frontend web/a
 - 💬 I’m currently [deeping into React Native](https://reactnative.dev/)
 - 📫 How to reach me: `https://profile-summary-for-github.com/user/phucuongit`
 
-<!--START_SECTION:endorsements-->
+<!--START_SECTION:skill-->
 
 ### Skills & Endorsements
 
 I would like to add you to my professional network on the GITHUB.
-
-  <ol>
-      
-        <ul>FrontEnd:
+   <ul>
+      <ul>FrontEnd:
           <li>Html</li>
           <li>Css</li>
            <li>Javascript</li> 
           <li>TypeScript</li>
           <li>React JS</li>
           <li>Next Js</li>
-        </ul>
+     </ul>
         <ul>Backend:
           <li>Node Js</li>
           <li>Express Js</li>
@@ -41,15 +39,15 @@ I would like to add you to my professional network on the GITHUB.
         <ul>App:
           <li>React Native</li>
         </ul>
-        <ul>FW:
+        <ul>Framework:
            <li>Wordpress</li>
         </ul>
         <ul>Database:
           <li>Mongodb</li>
           <li>Mysql</li>
         </ul>
-  </ol>
-  <!--END_SECTION:endorsements-->
+  </ul>
+
 
 ![CuongLe's Github stats](https://github-readme-stats.vercel.app/api?username=phucuongit&show_icons=true)
 <br/>
