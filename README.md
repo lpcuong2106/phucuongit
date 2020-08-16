@@ -24,11 +24,12 @@ I'm a [Junior Developer at Viec.Co](https://viec.co/) focusing on frontend web/a
 I would like to add you to my professional network on the GITHUB.
 
   <ol>
-        <li>Javascript</li> 
-        <li>TypeScript</li>
+      
         <ul>FrontEnd:
           <li>Html</li>
           <li>Css</li>
+           <li>Javascript</li> 
+          <li>TypeScript</li>
           <li>React JS</li>
           <li>Next Js</li>
         </ul>
