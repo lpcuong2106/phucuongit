@@ -22,31 +22,6 @@ I'm a [Junior Developer at Viec.Co](https://viec.co/) focusing on frontend web/a
 ### Skills & Endorsements
 
 I would like to add you to my professional network on the GITHUB.
-   <ul>
-      <ul>FrontEnd:
-          <li>Html</li>
-          <li>Css</li>
-           <li>Javascript</li> 
-          <li>TypeScript</li>
-          <li>React JS</li>
-          <li>Next Js</li>
-     </ul>
-        <ul>Backend:
-          <li>Node Js</li>
-          <li>Express Js</li>
-          <li>PHP</li> 
-        </ul>
-        <ul>App:
-          <li>React Native</li>
-        </ul>
-        <ul>Framework:
-           <li>Wordpress</li>
-        </ul>
-        <ul>Database:
-          <li>Mongodb</li>
-          <li>Mysql</li>
-        </ul>
-  </ul>
 
 
 ![CuongLe's Github stats](https://github-readme-stats.vercel.app/api?username=phucuongit&show_icons=true)
