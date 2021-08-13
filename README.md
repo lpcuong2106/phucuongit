@@ -27,4 +27,3 @@ I would like to add you to my professional network on the GITHUB.
 ![CuongLe's Github stats](https://github-readme-stats.vercel.app/api?username=phucuongit&show_icons=true)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phucuongit&layout=compact)](https://github.com/phucuongit/)
-![Github stats](https://i.imgur.com/7aTwo6C.png)
