@@ -24,36 +24,40 @@ I'm a [Junior Developer at Viec.Co](https://viec.co/) focusing on frontend web/a
 I would like to add you to my professional network on the GITHUB.
 
 
+<p align="center">
+  <img width="48%" src="https://user-images.githubusercontent.com/42716875/133955297-ee16a542-139e-43f3-8978-aba984c303aa.gif" alt="Git action" />
+  <img width="48%" src="https://user-images.githubusercontent.com/42716875/133955440-897584eb-5a90-49d6-a29e-1cd34825861f.gif" alt="Github Swag" />
+</p>
+
 
 ---
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiejaoude&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=phucuongit&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=phucuongit&theme=tokyonight" />
 </p>
 
-<h4 align="center">Testimonials</h4>
+
+<h4 align="center">My Skills</h4>
 <h1 align="center">❝</h1>
 
 <table>
   <tr>
-    <th>Author</th>
-    <th>Message</th>
+    <th>Skill</th>
+    <th>Description</th>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://twitter.com/urlichsanais/status/1349358736092094467">Anaïs Urlichs</a></td>
-    <td>Eddie is probably the most genuine and kind person I know in tech 🥰 providing opportunities and consistently cheering without expecting anything in return! He just recommended me for a podcast 😱</td>
+    <td><a target="_blank" href="">FrontEnd</a></td>
+    <td>I have experience as a front-end developer! Some kills that I use for my work such as ReactJS, VueJS, NextJS, NuxtJS, ReactNativeApp
   </tr>
   <tr>
-    <td><a target="_blank" href="https://twitter.com/yalematta/status/1304541107330658313">Layale</a></td>
-    <td>Following @eddiejaoude videos helped me a lot. You'll learn by practicing during his livestreams. Check his YouTube channel!</td>
+    <td><a target="_blank" href="">BackEnd</a></td>
+    <td>PHP: Laravel, Nodejs: Epress Js, Java: Spring MVC<td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://twitter.com/__nawalhmw/status/1304572901140635648">Nawal Alhamwi</a></td>
-    <td>YES, CAN'T AGREE MORE!! 💯 His videos (both the content && the way he delivers information) made me love Github more!🤩 Thanks @eddiejaoude 🌟</td>
+    <td><a target="_blank" href="">Database</a></td>
+    <td>Mongodb 🌟, Oracle and the lastest is MySQL 🤩 !</td>
   </tr>
-  <tr>
-    <td><a target="_blank" href="https://twitter.com/allanregush/status/1304484456221167617">Allan Regush</a></td>
-    <td>Working with @eddiejaoude and his open source community has been a positive experience. If you have been wanting to contribute to open source but don't know where to start. Come join the community.</td>
-  </tr>
+
 </table>
+<p align="center"><a target="_blank" href="https://cv.sharenows.com/"><b size="30">My Curriculum Vitae</b></a></p>
